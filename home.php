@@ -406,7 +406,7 @@ if (isset($_SESSION['id']) && isset($_SESSION['fname'])) {
 	   </ul>
 	   
 	   <div class="legal">
-		 <p>&copy; 2022  created by Sohan Singh Bisht. All rights reserved.</p>
+		 <p>&copy; 2022  created by Sohan Singh Bisht, Komal Singh Bisht ,Krishna singh Kunwar,vivek Baguali,Himanshu dhami</p>
 		 
 		 <div class="legal__links">
 		   <span>Made with <span class="heart">♥</span> remotely from Anywhere</span>
